@@ -29,10 +29,6 @@ After sending the request, it stores the response details as custom fields on th
 
 It also adds a "Send Order API Info" meta box to the order page in the WooCommerce admin. This meta box displays the API response details, including the send time, response code, error message, and payload.
 
-## License
-
-This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Keywords
 
 WordPress, WooCommerce, WooCommerce API, WooCommerce Order API, Order Management, Order Synchronization, WooCommerce Plugin, WooCommerce Extension.
